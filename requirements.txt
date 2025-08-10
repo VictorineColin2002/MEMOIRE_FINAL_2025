@@ -1,0 +1,8 @@
+pandas
+numpy
+spacy
+scipy
+lexical_diversity
+openpyxl
+
+python -m spacy download nl_core_news_sm
