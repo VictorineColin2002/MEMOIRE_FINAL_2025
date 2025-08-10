@@ -1,0 +1,3 @@
+ANOVA - MeanSentL
+F-statistic : 27.932
+p-value     : 0.0000

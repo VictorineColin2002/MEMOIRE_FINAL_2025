@@ -1,0 +1,2 @@
+F-statistic: 1.0022
+p-value: 4.0789e-01

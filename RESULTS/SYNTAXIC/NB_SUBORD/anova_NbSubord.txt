@@ -1,0 +1,3 @@
+ANOVA - NbSubord
+F-statistic : 7.667
+p-value     : 0.0000

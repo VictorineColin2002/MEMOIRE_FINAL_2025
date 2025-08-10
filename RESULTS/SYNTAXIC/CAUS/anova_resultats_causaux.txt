@@ -1,0 +1,3 @@
+Résultats du test ANOVA :
+F = 2.1378
+p-value = 7.8124e-02

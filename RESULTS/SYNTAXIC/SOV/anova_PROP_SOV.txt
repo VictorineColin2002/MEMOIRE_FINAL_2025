@@ -1,0 +1,4 @@
+ANOVA à un facteur (niveau CECR)
+Mesure: nbsubord
+F-statistic: 7.6669
+p-value: 1.0322e-05

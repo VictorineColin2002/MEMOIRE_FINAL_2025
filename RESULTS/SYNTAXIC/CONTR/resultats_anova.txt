@@ -1,0 +1,3 @@
+Résultat ANOVA pour RatioConnContr par niveau CECR :
+F = 5.0484
+p-value = 7.1342e-04
