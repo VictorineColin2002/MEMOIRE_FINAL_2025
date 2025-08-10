@@ -46,7 +46,7 @@ Le modèle final explique **65%** de la variance dans la difficulté des textes,
         └── SOV/                 # Proportion de structures SOV
 ```
 
-## ✨ Fonctionnalités principales des scripts
+## Fonctionnalités principales des scripts
 
 ### `CODE/FINAL_CODE_ALL.py`
 Script principal responsable de l'extraction de 18 variables linguistiques à partir d'un corpus de textes.
@@ -72,7 +72,7 @@ Script d'analyse statistique utilisant les données extraites pour effectuer l'a
 - **Analyse de régression** : Entraînement d'un modèle de régression linéaire multiple pour prédire le niveau CECR
 - **Évaluation du modèle** : Calcul du R² et du RMSE sur les ensembles d'entraînement et de test
 
-## 🚀 Comment utiliser ce projet
+## Comment utiliser ce projet
 
 ### Prérequis
 - Python 3.12
@@ -124,3 +124,4 @@ Ce script charge les données depuis `RESULTS\all_metrics_cleaned.csv` et effect
 **Victorine Colin** - *Les apports du Traitement Automatique du Langage (TAL) à l’évaluation des facteurs de
  lisibilité du néerlandais en tant que langue étrangère*  
 UCLouvain - 2025
+
