@@ -1,0 +1,23 @@
+De matrix | Buikgevoel eindelijk gevat in cijfers
+
+
+Weinig domeinen van onze gezondheid vallen zo ten prooi aan kwakzalverij als dat van onze darmen. Onlogisch is dat niet: de impact van darmklachten is omgekeerd evenredig met de wetenschappelijke kennis erover. Een pil vol sensoren kan helpen het buikgevoel te vatten in cijfers.
+
+Onder grote belangstelling heeft collega Aniek Even een kleine sensorpil ingeslikt, live op het podium van ITF World, de technologiebeurs van Imec in Antwerpen. In real time kon het publiek volgen waar het pilletje zich bevond, terwijl allerlei nuttige parameters op een groot scherm werden geprojecteerd. De aandacht was terecht: de intelligente tool kan een aardverschuiving betekenen voor alles wat met onze darmgezondheid te maken heeft.
+
+Wie ooit een endoscopie heeft ondergaan, kan beamen: aangenaam is anders. Door de ligging en de anatomie is ons maag-darmkanaal moeilijk te onderzoeken. Diagnoses worden meestal gesteld via zo’n onaangename ingreep, of via stalen van uitwerpselen. Probleem: zulke diagnoses bieden slechts een momentopname, en geven weinig prijs over wat exact misloopt, waardoor de darmen tot vandaag een van onze minst begrepen organen zijn. Tot nu was het niet mogelijk om rechtstreeks in de darm te meten of metingen in real time uit te voeren.
+
+
+
+Met de sensorpil kan dat veranderen. Het is een van de beste voorbeelden van hoe miniaturisering een nieuwe wereld kan openen. De pil maakt het mogelijk tijdens het traject van mond naar endeldarm elke tien seconden een meting uit te voeren: denk aan mechanische bewegingen van het maag-darmkanaal, ontstekingswaarden of chemische processen waarbij hormonen en enzymen betrokken zijn die het voedsel afbreken. Met die informatie kunnen artsen medicatie en behandelingen nauwkeuriger afstemmen op wat echt in de darmen gebeurt.
+
+De technische uitdagingen zijn niet min. Het sensorenpakketje moet inslikbaar zijn, moet bestand zijn tegen spijsverteringsenzymen en moet in detail te volgen zijn. Tel daarbij nog miniatuurinterfaces en signaalverwerkingselektronica die met een ultralaag vermogen moeten kunnen werken, een minibatterij die blijft werken terwijl tienduizenden metingen worden verricht, een hoop sensoren, volumebeperkte draadloze datacommunicatietechnologie, biocompatibele verpakking en je beseft: dit vergt spitstechnologie.
+
+Spijsverteringsaandoeningen met vage klachten, zoals het prikkelbaredarmsyndroom, kunnen met behulp van inslikbare sensoren preciezer worden gediagnosticeerd en beter worden gemonitord. Tegelijk biedt de sensorpil mogelijkheden voor een preventieve aanpak en advies op maat. Stel dat je regelmatig een gedetailleerd beeld krijgt van de opname van voedingsstoffen en vezels door het lichaam, dan kan je je darmgezondheid bijsturen voor het misloopt.
+
+
+
+Over de darmen valt nog te leren. Zo blijkt dat we de transplanteerbaarheid van ons microbioom - het geheel aan microben in ons lichaam - al jaren overschatten en is er geen bewijs voor het nut van razend populaire probioticasupplementen bij gezonde mensen.
+
+Tegelijk lijkt het erop dat het microbioom een rol speelt in de ontwikkeling van kankers en de slaagkansen van diverse immunotherapieën. Omdat darmgezondheid sterk samenhangt met het afweersysteem, het glucosemetabolisme en andere belangrijke processen in het lichaam, kan de sensorpil zich ontpoppen als een impactvol medisch instrument.
+

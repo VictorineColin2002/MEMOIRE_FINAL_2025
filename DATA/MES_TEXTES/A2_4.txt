@@ -1,0 +1,23 @@
+In het restaurant
+
+Ober: Goedenavond, heeft u een keuze kunnen maken?
+Gast 1: Jazeker. Ik wil graag de hamburger, maar zonder tomaat.
+Ober: Een hamburger zonder tomaat. Met friet of een gepofte aardappel?
+Gast 1: Ik wil graag friet met mayonaise, alstublieft.
+Ober: En voor u?
+Gast 2: En voor mij graag de biefstuk, alstublieft.
+Ober: Hoe wilt u de biefstuk gebakken hebben?
+Gast 2: Licht doorbakken.
+Ober: Oké. En wilt u nog iets te drinken?
+Gast 1: Ja, ik wil graag nog een kleine bier.
+Gast 2: Ik heb nog, dank u wel.
+
+10 minuten later
+
+Ober: Ik heb hier een hamburger met friet…
+Gast 1: Die is voor mij, lekker. Dank u wel.
+Ober: En een biefstuk voor u… Eet smakelijk.
+Gast 2: Dank u wel!
+Ober: Kan ik verder nog iets voor u betekenen?
+Gast 1: Ja, ik wacht nog op mijn bier.
+Ober: Excuses! Uw bier komt er snel aan. 

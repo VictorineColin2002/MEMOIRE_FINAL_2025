@@ -1,0 +1,9 @@
+De weg naar het treinstation
+
+Een mevrouw is op zoek naar een treinstation. Ze vraagt een meneer of hij de weg naar het station kent. Hij wijst haar de weg. Hun gesprek verloopt zo:
+Mevrouw: "Dag meneer, ik wil met de trein. Kunt u mij vertellen waar het treinstation is?"
+Meneer: "Natuurlijk mevrouw. Het is niet ver weg. Het is ongeveer 10 minuten lopen. Heeft u een auto of gaat u wandelen?"
+Mevrouw: "Ik ben te voet."
+Meneer: "U loopt deze straat uit. Aan het eind van de straat gaat u rechtsaf. Na ongeveer 10 meter ziet u een zebrapad. Daar kunt u veilig oversteken. Als u aan de overkant bent, loopt u rechtdoor. Wandel tot aan het einde van de straat. Daar is een groot plein. Aan de overkant van het plein kunt u een bus naar het station nemen. Het is maar 1 halte met de bus."
+Mevrouw: "Nee, ik loop liever. Mijn trein vertrekt pas over een uur dus ik heb tijd genoeg. Weet u hoe ik vanaf het busstation naar het treinstation kan lopen?"
+Meneer: "Dat is gemakkelijk te vinden. Loop langs het busstation en neem de eerste straat linksaf. Na ongeveer 10 meter ziet u een aantal winkels. Loop door tot aan de bloemenwinkel op de hoek. Tegenover die bloemenwinkel is het treinstation."

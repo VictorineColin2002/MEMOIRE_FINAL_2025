@@ -1,0 +1,136 @@
+Hoe kan een computer aardbeien leren herkennen?
+Artificiële intelligentie (AI) is een begrip dat
+tegenwoordig dagelijks in de media komt.
+Jammer genoeg koppelen heel wat mensen dit
+nog steeds aan robots die als schrikaanjagende
+machines de wereld proberen te veroveren. Als
+onderzoeker ben ik er echter van overtuigd dat
+we met AI heel wat problemen uit het dagelijks
+leven kunnen oplossen. Denk maar aan een
+zelfrijdende auto die moet bepalen waar de
+tegenliggers rijden, welke verkeersborden eraan
+komen of waar de wegmarkering zich bevindt.
+Ook in de ouderenzorg vinden we heel wat
+uitdagingen die via deze technieken opgelost
+kunnen worden. Denk bijvoorbeeld aan een
+monitorsysteem voor valdetectie bij ouderen.
+Voor mijn onderzoek sluit ik camera’s aan op
+een bestaand computersysteem, waardoor dit
+systeem live beelden van zijn omgeving binnen
+krijgt. Welke camera’s dat zijn, daar maak ik
+mij niet zoveel zorgen om, dat kan gaan van
+een eenvoudige webcam tot een zeer robuuste
+industriële camera. Op de live beeldenstroom die
+in de computer binnenkomt, voer ik vervolgens
+slimme beeldverwerkingsalgoritmes uit. Zo komt
+de computer te weten wat er in het beeld te zien is.
+Als mens hebben we het makkelijk
+Vertellen aan een computer wat er in het beeld
+te zien is, lijkt misschien eenvoudig, maar dat
+is het zeker niet. Toch is het voor ons als mens
+gemakkelijk om met één blik op de foto te
+vertellen wat er te zien is. Maar hoe komt dat?
+Tijdens ons leven van baby tot jongvolwassene
+krijgen we duizenden voorbeelden te zien van
+alles wat er in onze omgeving voorkomt. We zien
+bijvoorbeeld stoelen, een vreemd object met
+enkele poten, een rugleuning en een zitvlak, en
+we vragen ons hardop af wat dat eigenlijk is. Op
+datzelfde moment benoemen mensen in onze
+omgeving, vaak onbewust, dat dit een stoel is.
+Die associatie tussen die duizenden voorbeelden
+van een stoel en de bijbehorende benaming, is
+een link die in onze hersenen wordt opgebouwd
+via een netwerk van neuronen. We doen dit
+voor onze volledige omgeving, waardoor we
+uiteindelijk in onze hersenen een heel complex
+netwerk opbouwen, dat voor elke combinatie
+van onderdelen ons zal vertellen welk label erbij
+hoort. Zo kunnen we in onze omgeving stoelen
+van tafels onderscheiden en kennen we als mens
+het verschil tussen een vork en een mes. Ik probeer
+een computer diezelfde vaardigheden aan te
+leren, want uit zichzelf kan die de verbinding niet
+leggen tussen de duizenden voorbeelden van een
+stoel en een tafel en het bijbehorende objectlabel.
+Om dit te bereiken, boots ik via complexe
+beeldverwerkingsalgoritmes het gedrag van
+onze hersenen na. Ik programmeer software
+die voor de computer probeert eenzelfde soort
+complex netwerk uit te bouwen, dat onderdelen
+koppelt aan labels. En net zoals bij de mens,
+doen we dat ook voor heel veel verschillende
+objecten. Hierdoor kent de computer dus ook
+het onderscheid tussen een stoel en een tafel.
+Aardbeien detecteren in 3 stappen
+Om jullie concreet uit te leggen hoe we zo’n
+complex netwerk opbouwen, nemen we een
+kijkje bij een aardbeiplukrobot. Het plukken
+van aardbeien is immers een actueel probleem,
+want de boer die deze aardbeien moet
+kweken, die vindt geen mensen meer om al die
+aardbeien te plukken. Hij zou dus erg geholpen
+zijn met een computersysteem dat volledig
+zelfstandig de rijpe aardbeien kan lokaliseren
+en plukken. Het uitbouwen van een algoritme
+dat de computer vertelt waar die rijpe aardbeien
+precies hangen, gebeurt in drie grote stappen.
+Stap 1
+Bij elk beeldverwerkingsalgoritme heb je
+een voorbereidende fase. Tijdens deze fase
+verzamelen we heel wat beeldmateriaal van
+de groep van objecten waarvoor we een model
+willen aanleren, in dit geval aardbeien. We vragen
+aan de boer om zoveel mogelijk foto’s te maken
+van aardbeiplanten en dit in zoveel mogelijk
+omstandigheden. Veel of weinig licht, rijpe of
+onrijpe aardbeien, aardbeien gedeeltelijk bedekt
+door bladeren of net duidelijk zichtbaar, … hoe
+meer variatie er in onze beeldenset zit, hoe beter!
+Stap 2
+Wanneer de beelden bij ons terugkeren,
+moet iemand handmatig door alle beelden
+gaan en aanduiden waar de rijpe aardbeien
+zich bevinden. Die gelabelde data worden
+vervolgens aan de computer gegeven, die alle
+voorbeelden van aardbeien uit de afbeelding
+knipt. Aan al die voorbeelden geven we dan
+een aardbeilabel. Alle andere beeldinformatie
+waar geen aardbei in zit wordt als ‘achtergrond’
+gelabeld. Op die manier creëren we een dataset
+waaruit een objectmodel geleerd kan worden.
+Stap 3
+We geven deze dataset vervolgens aan een
+algoritme dat beelden kan verwerken. Dat
+algoritme leert dan op basis van al deze voorbeelden
+een compacte wiskundige voorstelling van een
+aardbei. Het model wordt voorbeeld per voorbeeld
+bijgestuurd tot de computer een perfecte link kan
+leggen tussen een afbeelding van een aardbei
+en het label aardbei. Hoe meer geannoteerde
+data we aan het algoritme aanbieden, hoe beter
+hij de link kan leggen tussen object en label.
+Op basis van dit aangeleerde model weet de
+computer nu hoe een rijpe aardbei eruitziet.
+Als we dit model nu in een aardbeiplukrobot
+inbouwen, dan kan deze bij het zien van nieuwe
+beelden aanduiden waar de rijpe aardbeien
+zich in het beeld bevinden. Deze coördinaten
+stuurt hij vervolgens door naar de robotica,
+waarmee de rijpe aardbei geplukt kan worden.
+Ondertussen werd ons onderzoek voor het
+lokaliseren van aardbeien in beelden ook
+opgepikt door de industrie, die volop aan het
+experimenteren is met de mogelijkheden voor
+de fruitpluksector. Uiteraard kan dit principe
+toegepast worden op veel meer dan een
+aardbeiplukrobot. We kunnen dit allereerst
+uitbreiden naar andere vruchten, gewassen en
+producten. Maar het gaat veel verder! Denk maar
+aan een postrobot, die automatisch huizen herkent,
+op zoek gaat naar het correcte huisnummer
+en jouw pakje achterlaat. Of een automatisch
+telsysteem in warenhuizen, dat herkent wat er
+uit het rek wordt weggenomen en vervolgens
+de tekorten bijbestelt. Zoals je kan lezen, zijn de
+toepassingsmogelijkheden volgens mij eindeloos.

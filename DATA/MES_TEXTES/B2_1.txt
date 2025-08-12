@@ -1,0 +1,19 @@
+Op het vliegveld
+
+Medewerker: Goedemorgen, wat kan ik voor u doen?
+Passagier: Goedemorgen. Ik wil me graag inchecken voor mijn vlucht naar Rome.
+Medewerker: Dat ga ik voor u doen. Zou ik uw paspoort mogen?
+Passagier: Ja, natuurlijk. Alstublieft.
+Medewerker: Heeft u ook bagage die ingecheckt moet worden?
+Passagier: Nee, ik reis alleen met deze kleine trolley. Dat is mijn handbagage.
+Medewerker: Perfect, die trolley mag met u mee. Dit is uw boarding pass, alstublieft.
+Passagier: Dank u wel.
+Medewerker: U wordt verwacht bij gate C6. Het boarden begint een half uur voor vertrek van de vlucht.
+Passagier: Waar vind ik gate C6?
+Medewerker: Na de veiligheidscontrole loopt u naar rechts. U passeert een aantal winkels en restaurants en gaat dan weer naar rechts. Daar is uw gate.
+Passagier: Duidelijk, bedankt.
+Medewerker: Heeft u nog meer vragen?
+Passagier: Nee, alles is duidelijk zo.
+Medewerker: Dan wens ik u alvast een goede vlucht toe.
+Passagier: Bedankt! Tot ziens!
+Medewerker: Tot ziens! 
